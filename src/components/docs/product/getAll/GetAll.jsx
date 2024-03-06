@@ -22,12 +22,14 @@ const GetAll = () => {
           {
               "id": 3,
               "name": "Seams Cargo",
-              "description": "This cargo pant with white stitching is a versatile and modern piece that combines functionality and style for the contemporary man.",
+              "description": "This cargo pant with white stitching is a versatile
+               and modern piece that combines functionality and style for the contemporary man.",
               "categoryId": 1,
               "color": "Black",
               "price": 27000,
               "stock": 5,
-              "img_link": "https://clothingapi.s3.amazonaws.com/clothingapi-images/pantalones/cargos/cargo-costuras.png"
+              "img_link": "https://clothingapi.s3.amazonaws.com/clothingapi-images/
+              pantalones/cargos/cargo-costuras.png"
           },
           //...
     ]`}

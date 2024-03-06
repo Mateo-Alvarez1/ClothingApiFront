@@ -20,12 +20,14 @@ const GetById = () => {
         {
             "id": 1,
             "name": "Imported Cargo",
-            "description": "Imported cargo pant combines style and functionality to meet the demands of an active, urban lifestyle.",
+            "description": "Imported cargo pant combines style and functionality
+             to meet the demands of an active, urban lifestyle.",
             "categoryId": 1,
             "color": "Black",
             "price": 35000,
             "stock": 5,
-            "img_link": "https://clothingapi.s3.amazonaws.com/clothingapi-images/pantalones/cargos/cargo-importado-negro.jpeg"
+            "img_link": "https://clothingapi.s3.amazonaws.com/clothingapi-images/
+            pantalones/cargos/cargo-importado-negro.jpeg"
         },
          `}
         </pre>
