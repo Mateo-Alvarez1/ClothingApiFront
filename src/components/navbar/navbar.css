@@ -1,0 +1,31 @@
+#navContainer {
+  background-color: #23262f;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.iconContainer {
+  background-color: #23262f;
+}
+
+.iconContainer > a {
+  font-size: 25px;
+  padding: 0px 10px;
+  text-align: center;
+  color: #9e9e9e;
+  background-color: #23262f;
+}
+
+.iconContainer > a:hover {
+  color: #eded7c;
+  transition: all 0.3s;
+}
+
+#navContainer > h1 {
+  color: #eded7c;
+  background-color: transparent;
+}

@@ -1,0 +1,36 @@
+#homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 80%;
+  height: 500px;
+  margin: 5px 200px 150px 200px;
+}
+
+#homeContainer > div > h2 {
+  color: #9e9e9e;
+  padding: 10px 0px;
+}
+
+#homeContainer > div > p {
+  background-color: #25262c;
+  padding: 15px;
+  font-weight: 400;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+@media (600px >= width) {
+  #homeContainer {
+    margin-left: 50px;
+    align-items: center;
+  }
+  #homeContainer > div > h2 {
+    width: 400px;
+    text-align: center;
+  }
+  #homeContainer > div > p {
+    width: 400px;
+    text-align: center;
+  }
+}
