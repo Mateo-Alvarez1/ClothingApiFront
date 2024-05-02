@@ -12,7 +12,7 @@ const GetAll = () => {
       <div className="renderBlock">
         <pre>
           <span>[ GET ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/category/getAll
+          https://clothingapi.zeabur.app/category/getAll
         </pre>
       </div>
       <small>Response</small>

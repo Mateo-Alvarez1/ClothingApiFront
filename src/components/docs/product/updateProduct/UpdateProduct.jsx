@@ -10,7 +10,7 @@ const UpdateProduct = () => {
       <div className="renderBlock">
         <pre>
           <span>[ PATCH ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/product/1
+          https://clothingapi.zeabur.app/product/1
         </pre>
       </div>
       <small>Body</small>

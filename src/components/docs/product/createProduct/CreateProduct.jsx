@@ -11,7 +11,7 @@ const CreateProduct = () => {
       <div className="renderBlock">
         <pre>
           <span>[ POST ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/product
+          https://clothingapi.zeabur.app/product
         </pre>
       </div>
       <small>Body</small>

@@ -10,7 +10,7 @@ const SearchUser = () => {
       <div className="renderBlock">
         <pre>
           <span>[ POST ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/auth/test@gmail.com
+          https://clothingapi.zeabur.app/auth/test@gmail.com
         </pre>
       </div>
       <small>Response</small>

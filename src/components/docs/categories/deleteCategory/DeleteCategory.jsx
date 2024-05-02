@@ -10,7 +10,7 @@ const DeleteCategory = () => {
       <div className="renderBlock">
         <pre>
           <span>[ DELETE ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/category/1
+          https://clothingapi.zeabur.app/category/1
         </pre>
       </div>
       <small>Response</small>

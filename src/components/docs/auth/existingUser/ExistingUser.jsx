@@ -10,7 +10,7 @@ const ExistingUser = () => {
       <div className="renderBlock">
         <pre>
           <span>[ POST ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/auth/login
+          https://clothingapi.zeabur.app/auth/login
         </pre>
       </div>
       <small>Body</small>

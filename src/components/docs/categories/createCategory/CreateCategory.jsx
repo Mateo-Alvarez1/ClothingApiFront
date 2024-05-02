@@ -11,7 +11,7 @@ const CreateCategory = () => {
       <div className="renderBlock">
         <pre>
           <span>[ POST ]</span>{" "}
-          https://clothingapi-dev-aepd.3.us-1.fl0.io/category
+          https://clothingapi.zeabur.app/category
         </pre>
       </div>
       <small>Body</small>
